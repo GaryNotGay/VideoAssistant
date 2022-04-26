@@ -1,9 +1,9 @@
 # Video Assistant Powerd By FFmpeg
 
-Author  :  lijishi
-Contact :  lijishi@163.com
-Software:  Pycharm & Python 3.9.5
-License :  GNU GENERAL PUBLIC LICENSE Version 3
+Author  :  lijishi  
+Contact :  lijishi@163.com  
+Software:  Pycharm & Python 3.9.5 
+License :  GNU GENERAL PUBLIC LICENSE Version 3   
 
 ## 1、软件下载 & 代码开源 
 
@@ -21,7 +21,7 @@ License :  GNU GENERAL PUBLIC LICENSE Version 3
 | 音频编码 | -acodec xxx | aac/ac3/…… |
 | 音频码率 | -b:a xxxk | 128k/320k/…… |
 | 添加字幕 | -vf subtitle=xxx | srt/ass/…… |
-| HDR2SDR | -pix_fmt yuv420p -vf zscale=t=linear:npl=100,format=gbrpf32le,zscale=p=bt709,tonemap=tonemap=hable:desat=0,zscale=t=bt709:m=bt709:r=tv | 无，大神可手动调整 |
+| HDR2SDR | -pix_fmt yuv420p …… | 无，大神可手动调整 |
 
 ## 3、注意事项
 ##### 字幕格式已开启校验，目前仅支持srt/ass格式
@@ -35,11 +35,11 @@ License :  GNU GENERAL PUBLIC LICENSE Version 3
 ## 4、更新日志
 
 ### V1.0
-更新日期：20220426
-更新内容：首次发布！欢迎下载使用，多提意见多交流！
+更新日期：20220426   
+更新内容：首次发布！欢迎下载使用，多提意见多交流！   
 
 ## 5、ToDoList
-> 欢迎提交Issue，别忘了点个Star，亦可邮件沟通，欢迎交流
+> 欢迎提交Issue，别忘了点个Star，亦可邮件沟通，欢迎交流   
 
 ##### 增加软件稳定性，修复软件bug，完善软件文档，优化界面UI
 ##### 增加多视频批量处理功能
