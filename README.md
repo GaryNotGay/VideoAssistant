@@ -2,7 +2,7 @@
 
 Author  :  lijishi  
 Contact :  lijishi@163.com  
-Software:  Pycharm & Python 3.9.5 
+Software:  Pycharm & Python 3.9.5   
 License :  GNU GENERAL PUBLIC LICENSE Version 3   
 
 ## 1、软件下载 & 代码开源 
