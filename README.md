@@ -9,6 +9,7 @@ License :  GNU GENERAL PUBLIC LICENSE Version 3
 
 #### Github: https://github.com/GaryNotGay/VideoAssistan
 #### Gitee: https://gitee.com/garynotgay/VideoAssistant
+#### CDN: https://tencentcloud-bj-1252747136.cos.ap-beijing.myqcloud.com/software/VideoAssistant_V1.0.zip   
 
 ## 2、开发文档
 
